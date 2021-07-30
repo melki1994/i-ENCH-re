@@ -1,0 +1,17 @@
+.signin-container {
+  margin-top: 15%;
+}
+
+.modalContainer {
+  display: flex;
+}
+
+.img-fluid {
+  width: 150px;
+  margin-right: 10%;
+  margin-left: 2%;
+}
+.signIn-btn {
+  float: right;
+  margin: 0 2px;
+}
